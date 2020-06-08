@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script src="bookings.js"></script>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">          
+        <script src="js/bootstrap.js"></script>  
+        <link rel="stylesheet" href="css/bootstrap.css">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">
+                    <img src="tennis.jpg" width="70" height="50">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav">
+                    <li class="nav-item active">
+                      <a class="nav-link" href="index.html">Persons <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="bookings.html">Bookings</a>
+                    </li>                    
+                  </ul>
+                </div>
+              </nav>
+        </header>
+
+        <div>
+            <br>
+            <a>Kalenderwoche</a>
+            <button id="btnweekplus1"><-</button>
+            <a id="kalenderwoche" style="font-style: oblique;"></a>
+            <button id="btnweekminus1">-></button>
+        </div>
+
+        <main>
+            <table class="table" id="tableBookings">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Mo</th>
+                        <th>Di</th>
+                        <th>Mi</th>
+                        <th>Do</th>
+                        <th>Fr</th>
+                        <th>Sa</th>
+                        <th>So</th>
+                    </tr>
+                    
+                </thead>
+                <tbody id="tableBodyBookings"></tbody>
+            </table>
+        </body>
+        </main>        
+        
+</html>

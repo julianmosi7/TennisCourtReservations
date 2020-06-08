@@ -1,0 +1,36 @@
+@hostname = localhost
+@port = 5000
+@url = http://{{hostname}}:{{port}}
+@persons = {{url}}/persons
+@bookings = {{url}}/bookings
+@personId = 5012
+############################ Categories
+
+GET {{persons}} HTTP/1.1
+####
+
+GET {{persons}}/4 HTTP/1.1
+####
+
+POST {{persons}} HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstname": "Julian",
+    "lastname": "Moshammer",
+    "age": 18,
+    "nrBookings": 2
+}
+###
+
+PUT {{persons}}/9 HTTP/1.1
+Content-Type: application/json
+
+{
+    "categoryName": "Vegetables",
+    "description": "all kinds of vegetables"
+}
+###
+
+DELETE {{persons}}/7011 HTTP/1.1
+###

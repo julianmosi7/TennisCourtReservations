@@ -1,0 +1,13 @@
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\bin\Debug\netcoreapp3.1\TennisCourtReservationsDb.deps.json
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\bin\Debug\netcoreapp3.1\TennisCourtReservationsDb.dll
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.csprojAssemblyReference.cache
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.AssemblyInfoInputs.cache
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.AssemblyInfo.cs
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\bin\Debug\netcoreapp3.1\TennisCourtReservationsDb.runtimeconfig.json
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\bin\Debug\netcoreapp3.1\TennisCourtReservationsDb.runtimeconfig.dev.json
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.genruntimeconfig.cache
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\bin\Debug\netcoreapp3.1\TennisCourtReservationsDb.pdb
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.dll
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.pdb
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\TennisCourtReservationsDb.csproj.CoreCompileInputs.cache
+F:\Documents\School\4.Klasse\POS\TennisCourtReservations\TennisCourtReservationsDb\TennisCourtReservationsDb\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
